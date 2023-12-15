@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.1f2ac20d.css",
-    "main.js": "/static/js/main.31063fcf.js",
+    "main.js": "/static/js/main.ad0403f0.js",
     "static/media/TTFirsNeue-Regular.ttf": "/static/media/TTFirsNeue-Regular.7925664aab1bc42bbc9b.ttf",
     "static/media/logo.svg": "/static/media/logo.0cdc78c7cf3228b1dce4b298e3bf6e52.svg",
     "index.html": "/index.html",
     "main.1f2ac20d.css.map": "/static/css/main.1f2ac20d.css.map",
-    "main.31063fcf.js.map": "/static/js/main.31063fcf.js.map"
+    "main.ad0403f0.js.map": "/static/js/main.ad0403f0.js.map"
   },
   "entrypoints": [
     "static/css/main.1f2ac20d.css",
-    "static/js/main.31063fcf.js"
+    "static/js/main.ad0403f0.js"
   ]
 }
